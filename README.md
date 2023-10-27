@@ -29,7 +29,7 @@ ________________________________________________________________________________
 <img align="left" src="php-logo-svg.svg" width="30" height="30"/>
 <img align="left" src="1200px-gulp-js-logo-svg.svg" width="30" height="30"/>
 <img align="left" src="C++logo.svg" width="30" height="30"/>
-<img align="left" src="descarga.svg" width="30" height="30"/>
+<img align="left" src="Csharp.svg" width="30" height="30"/>
 <img align="left" src="java.svg" width="30" height="30"/>
 
 <br />
@@ -57,9 +57,6 @@ ________________________________________________________________________________
 - :point_right: [Proyecto 09 - ]()
 
 - :point_right: [Proyecto 10 - ]()
-
-
-
 
 
 
