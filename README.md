@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ### 👩‍💻 Mis proyectos:
 
-- [Proyecto 01 - Sitio Freelancer](https://elizabeth-araceli-freelancer.netlify.app/)
+- 1️⃣ [Proyecto 01 - Sitio Freelancer](https://elizabeth-araceli-freelancer.netlify.app/)
 
 - [Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
 
