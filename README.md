@@ -1,4 +1,6 @@
 <img align="right" src="foto.svg" width="200" height="300"/>
+
+
 # ⚜️¡Hola a todos! 👋 Mi nombre es Elizabeth Araceli  👩
 
 ## ✨Soy Licenciada en Ingeniería en Sistemas Computacionales✨
