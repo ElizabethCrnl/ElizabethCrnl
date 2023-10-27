@@ -22,16 +22,16 @@ ________________________________________________________________________________
 
 <br />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-html5" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z" />
-  <path d="M15.5 8h-7l.5 4h6l-.5 3.5l-2.5 .75l-2.5 -.75l-.1 -.5" />
-</svg>
+<img align="left" src="git-github.svg" width="30" height="30" />
+<img align="left" src="html5.svg" width="30" height="30" />
+<img align="left" src="css3.svg" width="30" height="30" />
+<img align="left" src="javascript.svg "width="30" height="30" />
+<img align="left" src="php-logo-svg.svg" width="30" height="30"/>
+<img align="left" src="1200px-gulp-js-logo-svg.svg" width="30" height="30"/>
+<img align="left" src="C++logo.svg" width="30" height="30"/>
+<img align="left" src="descarga.svg" width="30" height="30"/>
+<img align="left" src="java.svg" width="30" height="30"/>
+
 <br />
 
 ___________________________________________________________________________________________________
