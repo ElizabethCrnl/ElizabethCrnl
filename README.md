@@ -33,25 +33,25 @@ ________________________________________________________________________________
 
 ### 👩‍💻 Mis proyectos:
 
-- [Proyecto 01 - Sitio Freelancer](https://elizabeth-araceli-freelancer.netlify.app/)
+- :point_right:[Proyecto 01 - Sitio Freelancer](https://elizabeth-araceli-freelancer.netlify.app/)
 
-- [Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
+- :point_right:[Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
 
-- [Proyecto 03 - ]()
+- :point_right:[Proyecto 03 - ]()
 
-- [Proyecto 04 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
+- :point_right:[Proyecto 04 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
 
-- [Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
+- :point_right:[Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
 
-- [Proyecto 06 - ]()
+- :point_right:[Proyecto 06 - ]()
 
-- [Proyecto 07 - ]()
+- :point_right:[Proyecto 07 - ]()
 
-- [Proyecto 08 - ]()
+- [:point_right:Proyecto 08 - ]()
 
-- [Proyecto 09 - ]()
+- :point_right:[Proyecto 09 - ]()
 
-- [Proyecto 10 - ]()
+- :point_right:[Proyecto 10 - ]()
 
 
 
