@@ -21,8 +21,8 @@ ________________________________________________________________________________
 ### 🖥️ Lenguajes y 🛠️Herramientas que utilizo:
 
 <br />
-<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="center" src="git-github.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
+<img align="left" src="git-github.svg" width="30" height="30" />
 <img align="left" src="html5.svg" width="30" height="30" />
 <img align="left" src="css3.svg" width="30" height="30" />
 <img align="left" src="javascript.svg "width="30" height="30" />
