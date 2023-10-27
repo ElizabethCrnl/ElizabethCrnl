@@ -5,9 +5,8 @@
 
 ## ✨Soy Licenciada en Ingeniería en Sistemas Computacionales✨
 
-### 🦋En el 2021 me titulé, actualmente, me encuentro en capacitación en Desarrollo Web 
-### con el objetivo de convertirme en Full Stack, 🦋 por el cual estoy desarrollando este repositorio
-#### - 💥 Me gusta estar aprendiendo cosas nuevas constatemente 💥
+### 🦋En el 2021 me titulé, actualmente, me encuentro en capacitación en Desarrollo Web con el objetivo de convertirme en Full Stack 🦋 
+#### - 💥 Me encanta estar aprendiendo cosas nuevas constatemente 💥
 
 #### - 👩‍🎓 Estoy cursando Desarrollo Web en Udemy
 #### - 👩‍🎓 Llevo un curso de Git y GitHub desde Cero en Udemy
