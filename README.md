@@ -22,15 +22,18 @@ ________________________________________________________________________________
 
 <br />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="git-github.svg" width="30" height="30" />
+<img align="left" src="git.svg" width="30" height="30" />
+<img align="left" src="github.svg" width="30" height="30" />
 <img align="left" src="html5.svg" width="30" height="30" />
 <img align="left" src="css3.svg" width="30" height="30" />
 <img align="left" src="javascript.svg "width="30" height="30" />
 <img align="left" src="php-logo-svg.svg" width="30" height="30"/>
-<img align="left" src="1200px-gulp-js-logo-svg.svg" width="30" height="30"/>
-<img align="left" src="C++logo.svg" width="30" height="30"/>
+<img align="left" src="gulp-js.svg" width="30" height="30"/>
+<img align="left" src="mysql.svg" width="30" height="30"/>
+<img align="left" src="sql.webp" width="30" height="30"/>
+<img align="left" src="C_logo.svg" width="30" height="30"/>
 <img align="left" src="Csharp.svg" width="30" height="30"/>
-<img align="left" src="java.svg" width="30" height="30"/>
+<img align="left" src="Java-Logo.svg" width="30" height="30"/>
 
 <br />
 
