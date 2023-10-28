@@ -1,4 +1,4 @@
-<img align="left" src="foto.svg" width="200" height="300"/>
+<img align="left" src="img/foto.svg" width="200" height="300"/>
 
 
 # ⚜️¡Hola a todos! 👋 Mi nombre es Elizabeth Araceli
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ### 🖥️ Lenguajes y 🛠️Herramientas que utilizo:
 
 <br />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
+<img align="left" src="img/PowerShell.svg" width="30" height="30"/>
 <img align="left" src="img/git.svg" width="30" height="30" />
 <img align="left" src="img/github.svg" width="30" height="30" />
 <img align="left" src="img/html5.svg" width="30" height="30" />
@@ -34,7 +34,6 @@ ________________________________________________________________________________
 <img align="left" src="img/C_logo.svg" width="30" height="30"/>
 <img align="left" src="img/C-Sharp.svg" width="30" height="30"/>
 <img align="left" src="img/Java-Logo.svg" width="30" height="30"/>
-<img align="left" src="img/PowerShell.svg" width="30" height="30"/>
 <br />
 
 ___________________________________________________________________________________________________
@@ -45,13 +44,13 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
 
-- :point_right: [Proyecto 03 - ]()
+- :point_right: [Proyecto 03 - En proceso]()
 
 - :point_right: [Proyecto 04 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
 
 - :point_right: [Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
 
-- :point_right: [Proyecto 06 - ]()
+- :point_right: [Proyecto 06 - En proceso]()
 
 - :point_right: [Proyecto 07 - ]()
 
