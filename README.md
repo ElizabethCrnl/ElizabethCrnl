@@ -1,5 +1,5 @@
 <img align="left" src="img/foto.svg" width="200" height="300"/>
-#c7f6d4
+´#c7f6d4´
 
 # ⚜️¡Hola a todos! 👋 Mi nombre es Elizabeth Araceli
 
