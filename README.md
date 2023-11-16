@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 06 - Bienes raices (antes de PHP)](https://bienesraiceseli.netlify.app)
 
-- :point_right: [Proyecto 07 - ]()
+- :point_right: [Proyecto 07 - Bienes raices con PHP](https://github.com/ElizabethCrnl/DesarrolloWeb07.git)
 
 - :point_right: [Proyecto 08 - ]()
 
