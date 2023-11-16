@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
 
-- :point_right: [Proyecto 03 - En proceso](https://tribiaduo.netlify.app)
+- :point_right: [Proyecto 03 - TribiaDuo](https://tribiaduo.netlify.app)
 
 - :point_right: [Proyecto 04 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
 
