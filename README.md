@@ -10,7 +10,7 @@
 
 #### - 👩‍🎓 Estoy cursando Desarrollo Web en Udemy
 #### - 👩‍🎓 Llevo un curso de Git y GitHub desde Cero en Udemy
-#### - 🙏 Estoy buscando ingresar a Laboratoria
+#### - 🙏 Estoy buscando ingresar a Laboratoria 
 _________________________________________________________________________________________________
 
 ### Contactame!:
