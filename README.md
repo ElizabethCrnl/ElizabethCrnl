@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
 
-- :point_right: [Proyecto 06 - En proceso]()
+- :point_right: [Proyecto 06 - Bienes raices (antes de PHP)](https://bienesraiceseli.netlify.app)
 
 - :point_right: [Proyecto 07 - ]()
 
