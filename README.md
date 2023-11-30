@@ -9,7 +9,8 @@
 #### - 💥 Me encanta estar aprendiendo cosas nuevas constatemente 💥
 
 #### - 👩‍🎓 Estoy cursando Desarrollo Web en Udemy
-#### - 👩‍🎓 Llevo un curso de Git y GitHub desde Cero en Udemy
+#### - 👩‍🎓 Llevo un curso de Git y GitHub en Udemy
+#### - 👩‍🎓 Curso JavaScript en Udemy
 
 _________________________________________________________________________________________________
 
