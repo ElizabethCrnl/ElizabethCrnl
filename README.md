@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 08 - ]()
 
-- :point_right: [Proyecto 09 - ]()
+- :point_right: [Proyecto 09 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
 
 - :point_right: [Proyecto 10 - ]()
 
