@@ -55,13 +55,9 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 07 - Bienes raices con PHP](https://github.com/ElizabethCrnl/DesarrolloWeb07.git)
 
-- :point_right: [Proyecto 08 - ]()
+- :point_right: [Proyecto 08 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
 
-- :point_right: [Proyecto 09 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
-
-- :point_right: [Proyecto 10 - ]()
-
-- :point_right: [Proyecto 11 - AppSalon citas con PHP MVC](https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/)
+- :point_right: [Proyecto 09 - AppSalon citas con PHP MVC](https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/)
 
 
 
