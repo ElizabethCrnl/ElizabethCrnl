@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 10 - ]()
 
-- :point_right: [Proyecto 11 - ] 
+- :point_right: [Proyecto 11 - AppSalon] (https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/) 
 
 
 
