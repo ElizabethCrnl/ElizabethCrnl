@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
 
-- :point_right: [Proyecto 06 - Bienes raices]()
+- :point_right: [Proyecto 06 - Bienes raices](https://bienesraiceseli.netlify.app/)
 
 - :point_right: [Proyecto 07 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
 
