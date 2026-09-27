@@ -1,7 +1,7 @@
 
 # ⚜️¡Hola a todos! 👋 Mi nombre es Elizabeth Araceli
 
-## ✨Soy Ingeniera en Sistemas Computacionales con más de 20 años de experiencia en la iniciativa privada y pública en el área administrativa, y en transición al Desarrollo Web desde 2021. ✨
+## ✨Soy Ingeniera en Sistemas Computacionales con más de 20 años de experiencia en la iniciativa privada y pública en el área administrativa, y en transición al Desarrollo Web. ✨
 
 ### 🦋 Actualmente, me encuentro en capacitación en Desarrollo Web con el objetivo de convertirme en Full Stack
 #### - 💥 Me encanta estar aprendiendo cosas nuevas constatemente 💥
