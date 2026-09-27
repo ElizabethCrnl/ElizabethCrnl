@@ -1,5 +1,3 @@
-<img align="left" src="" width="200" height="300"/>
-
 
 # ⚜️¡Hola a todos! 👋 Mi nombre es Elizabeth Araceli
 
