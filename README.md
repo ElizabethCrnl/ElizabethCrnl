@@ -51,7 +51,6 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 06 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
 
-- :point_right: [Proyecto 07 - AppSalon citas con PHP MVC](https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/)
 
 
 
