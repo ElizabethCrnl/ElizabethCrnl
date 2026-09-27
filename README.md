@@ -43,17 +43,15 @@ ________________________________________________________________________________
 
 - :point_right: [Proyecto 02 - Sitio frontend Store](https://frontend-store-eli.netlify.app/)
 
-- :point_right: [Proyecto 03 - TribiaDuo](https://tribiaduo.netlify.app)
+- :point_right: [Proyecto 03 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
 
-- :point_right: [Proyecto 04 - Blog de Café ](https://blog-de-cafe-eli-crnl.netlify.app/)
+- :point_right: [Proyecto 04 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
 
-- :point_right: [Proyecto 05 - Sitio Rock & EMD Festival](https://rock-and-edm-festival-eli.netlify.app/)
+- :point_right: [Proyecto 05 - Bienes raices](https://bienesraiceseli.netlify.app/)
 
-- :point_right: [Proyecto 06 - Bienes raices](https://bienesraiceseli.netlify.app/)
+- :point_right: [Proyecto 06 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
 
-- :point_right: [Proyecto 07 - Carrito de compras con JavaScript](https://carritoeli.netlify.app/)
-
-- :point_right: [Proyecto 08 - AppSalon citas con PHP MVC](https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/)
+- :point_right: [Proyecto 07 - AppSalon citas con PHP MVC](https://appsalon-phpmvc-elizabethcrnl.mnz.dom.my.id/)
 
 
 
